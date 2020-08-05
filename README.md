@@ -2,17 +2,37 @@
 <html lang="EN">
 <head>
     <meta charset="UTF-8">
-    <link rel="icon" type="image/png" href="/Users/belikewatermyfriend/Pictures/Icons/Vortex.png">
-    <title>My first page</title>
+    <link rel="icon" type="image/png" href=<i class="fas fa-feather-alt"></i>>
+    <title>Lis Recasens</title>
 </head>
 <body>
-<main><h1>First code here</h1></main>
+<main><h1>Lis Recasens</h1></main>
 <figure>
-    <img src="https://github.com/lis-recasens/lis-recasens.github.io/blob/master/creek-flow-moss-957987.jpg"
-    width="50%"
-    alt="Creek and moss">
-    <figcaption>Mossy creek</figcaption>
+    <img src="/Images/PictureCV.png"
+    width="25%"
+    alt="My CV pic">
+    <figcaption>Greetings</figcaption>
 </figure>
+<h2>Summary</h2>
+<p>I’m a highly ambitious & proactive professional with extensive work experience in the aviation, hospitality & customer service sector. Throughout my professional experience I’ve gained the necessary team-working, problem-solving & prioritizing skills when working on projects with strict deadlines. During my M.Sc. degree my main focus was on aviation sector, CSR & project mgmt. I’m eager to advance my acquired skills & expertise in an ever-changing environment & I’m looking forward to bringing in a mixture of professional & business skills into the working environment.</p>
+<h2>EXPERIENCE</h2>
+<h3>Head Night Auditor │ Moxy Hotel Frankfurt Airport │ GER</h3>
+<h4>09/2018 - Present</h4>
+<p>Payment management; Verifying & adjusting billing / reservations; Run daily reports; Reviewing & verifying daily handover to mgmt.; Daily cash audit & closing reports.</p>
+<h5>Achievements:</h5>
+<ul>
+    <li>Implementation of environmentally sustainable process</li>
+    <li>Upgrading internal processes for efficiency - using industry knowledge & applying Design Thinking methods to identify, brainstorm & finding solutions to resolve problems within the team.</li>
+</ul>
+<h3>Residence Assistant (RA) & Head Receptionist │University of Limerick │ IRE</h3>
+<h4>09/2016 - 12/2017</h4>
+<p>RA during the M.Sc. degree; Lead of customer service relationship, planning of multiple international events & online marking as well as assisting the senior managers in the day-to-day operations.</p>
+<h5>Achievements:</h5>
+<ul>
+    <li>Optimised room booking procedure, for maximum productivity & allocations</li>
+    <li>Introduced new automated processes to optimise business efficiency</li>
+    <li>Online marketing implementation with 94% of visibility increase in Google & other online platforms</li>
+</ul>
 <hr>
 <br>
 <table border="1">
