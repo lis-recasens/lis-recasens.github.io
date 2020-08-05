@@ -2,13 +2,13 @@
 <html lang="EN">
 <head>
     <meta charset="UTF-8">
-    <link rel="icon" type="image/png" href="/Users/belikewatermyfriend/Dropbox/Hobbies/Front-End%20Web%20Development/C1/OnlineCV/Images/profile.png">
+    <link rel="icon" type="image/png" href="/Images/profile.png">
     <title>Lis Recasens</title>
 </head>
 <body>
 <main><h1>Lis Recasens</h1></main>
 <figure>
-    <img src="/Users/belikewatermyfriend/Dropbox/Hobbies/Front-End%20Web%20Development/C1/OnlineCV/Images/PictureCV.png"
+    <img src="/Images/PictureCV.png"
     width="25%"
     alt="My CV pic">
     <figcaption>Greetings</figcaption>
