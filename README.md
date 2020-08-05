@@ -2,19 +2,20 @@
 <html lang="EN">
 <head>
     <meta charset="UTF-8">
-    <link rel="icon" type="image/png" href=<i class="fas fa-feather-alt"></i>>
+    <link rel="icon" type="image/png" href="/Users/belikewatermyfriend/Dropbox/Hobbies/Front-End%20Web%20Development/C1/OnlineCV/Images/profile.png">
     <title>Lis Recasens</title>
 </head>
 <body>
 <main><h1>Lis Recasens</h1></main>
 <figure>
-    <img src="/Images/PictureCV.png"
+    <img src="/Users/belikewatermyfriend/Dropbox/Hobbies/Front-End%20Web%20Development/C1/OnlineCV/Images/PictureCV.png"
     width="25%"
     alt="My CV pic">
     <figcaption>Greetings</figcaption>
 </figure>
 <h2>Summary</h2>
 <p>I’m a highly ambitious & proactive professional with extensive work experience in the aviation, hospitality & customer service sector. Throughout my professional experience I’ve gained the necessary team-working, problem-solving & prioritizing skills when working on projects with strict deadlines. During my M.Sc. degree my main focus was on aviation sector, CSR & project mgmt. I’m eager to advance my acquired skills & expertise in an ever-changing environment & I’m looking forward to bringing in a mixture of professional & business skills into the working environment.</p>
+<hr>
 <h2>EXPERIENCE</h2>
 <h3>Head Night Auditor │ Moxy Hotel Frankfurt Airport │ GER</h3>
 <h4>09/2018 - Present</h4>
@@ -33,6 +34,21 @@
     <li>Introduced new automated processes to optimise business efficiency</li>
     <li>Online marketing implementation with 94% of visibility increase in Google & other online platforms</li>
 </ul>
+<h3>Cabin Crew Supervisor & Base Safety Officer in Shannon Airport │ Ryanair │ IRE</h3>
+<h4>06/2010 - 08/2016</h4>
+<p>Conducting pre-flight crew briefing of the daily targets & safety procedures; In charge of Shannon Airport base safety procedures & crew safety training; Planning & implementation of annual target.</p>
+<h5>Achievements:</h5>
+<ul>
+    <li>Member of the European Ryanair Air Safety Group & collaborated to build & optimize safety awareness on various Ryanair bases across Europe / global</li>
+    <li>As head of the Shannon Safety Officer, trained & instructed new cabin crews in safety & sales procedures levels</li>
+    </ul>
+<h3>Assistant Restaurant Manager │ Hyatt Regency La Manga │ ESP</h3>
+<h4>06/2005 - 05/2010</h4>
+<p>Responsible for the daily operation of the restaurant service. Additionally, this position involved inventory mgmt. & dealing with different stakeholders.</p>
+<h5>Achievements:</h5>
+<ul>
+    <li>Awarded Best Customer Service for the years of 2007 & 2008</li>
+</ul>
 <hr>
 <br>
 <table border="1">
@@ -48,6 +64,7 @@
 <a href="/Users/belikewatermyfriend/Dropbox/Hobbies/Front-End Web Development/C1/firstPage.html">Or this</a>
 <footer>
     <p>Wow, this is easier than fucking Python</p>
+    Icons made by <a href="https://www.flaticon.com/authors/bqlqn" title="bqlqn">bqlqn</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 </footer>
 </body>
 </html>
