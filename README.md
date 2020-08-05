@@ -8,7 +8,7 @@
 <body>
 <main><h1>First code here</h1></main>
 <figure>
-    <img src="/Users/belikewatermyfriend/Pictures/creek-flow-moss-957987.jpg"
+    <img src="https://github.com/lis-recasens/lis-recasens.github.io/blob/master/creek-flow-moss-957987.jpg"
     width="50%"
     alt="Creek and moss">
     <figcaption>Mossy creek</figcaption>
