@@ -1,5 +1,5 @@
 body{
-    background: url(/Users/belikewatermyfriend/Dropbox/Hobbies/Front-End%20Web%20Development/C1/OnlineCV/Images/Background.png) no-repeat center center fixed;
+    background: url(Images/Background.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -74,7 +74,7 @@ table{
     display: inline-flex;
 }
 #address{
-    background-image: url(/Users/belikewatermyfriend/Dropbox/Hobbies/Front-End%20Web%20Development/C1/OnlineCV/Images/address.png);
+    background-image: url(Images/address.png);
     background-repeat: no-repeat;
     background-position: left;
     background-size: 40%;
@@ -91,7 +91,7 @@ table{
     text-align: left;
 }
 #phone{
-    background-image: url(/Users/belikewatermyfriend/Dropbox/Hobbies/Front-End%20Web%20Development/C1/OnlineCV/Images/phone-call.png);
+    background-image: url(Images/phone-call.png);
     background-repeat: no-repeat;
     background-position: left;
     background-size: 35%;
@@ -108,7 +108,7 @@ table{
     text-align: left;
 }
 #email{
-    background-image: url(/Users/belikewatermyfriend/Dropbox/Hobbies/Front-End%20Web%20Development/C1/OnlineCV/Images/email.png);
+    background-image: url(Images/email.png);
     background-repeat: no-repeat;
     background-position: left;
     background-size: 40%;
@@ -126,7 +126,7 @@ table{
     text-align: left;
 }
 #linkedin{
-    background-image: url(/Users/belikewatermyfriend/Dropbox/Hobbies/Front-End%20Web%20Development/C1/OnlineCV/Images/linkedin.png);
+    background-image: url(Images/linkedin.png);
     background-repeat: no-repeat;
     background-position: left;
     background-size: 18%;
